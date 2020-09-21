@@ -18,8 +18,7 @@ NET_lc=${NET,,}
 DATASET=$3
 
 array=( $@ )
-len=${#array[@]}
-EXTRA_ARGS=${array[@]:3:$len}
+kkkmùùty
 EXTRA_ARGS_SLUG=${EXTRA_ARGS// /_}
 
 case $DATASET in
